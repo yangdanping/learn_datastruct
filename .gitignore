@@ -36,3 +36,4 @@ stats.html
 .env.development
 .env.production
 .env.*.local
+handoff*.md
